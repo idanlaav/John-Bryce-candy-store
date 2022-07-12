@@ -1,1 +1,1 @@
-alert("Welcome!")
+alert("Welcome to the best candy store ever!")
